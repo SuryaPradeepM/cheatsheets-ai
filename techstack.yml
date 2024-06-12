@@ -1,0 +1,20 @@
+repo_name: SuryaPradeepM/cheatsheets-ai
+report_id: 85b4bb0d969732861d6d46fc998afc15
+version: 0.1
+repo_type: Public
+timestamp: '2024-06-12T09:34:50+00:00'
+requested_by: kailashahirwar
+provider: github
+branch: master
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/SuryaPradeepM/cheatsheets-ai
+  detection_source: Repo Metadata
